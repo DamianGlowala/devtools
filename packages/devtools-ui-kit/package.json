@@ -36,7 +36,7 @@
     "@iconify-json/carbon": "^1.1.18",
     "@iconify-json/logos": "^1.1.33",
     "@iconify-json/ri": "^1.1.10",
-    "@iconify-json/tabler": "^1.1.81",
+    "@iconify-json/tabler": "^1.1.82",
     "@nuxt/devtools": "workspace:*",
     "@nuxt/devtools-kit": "workspace:*",
     "@nuxt/kit": "^3.6.2",

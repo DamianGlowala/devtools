@@ -35,7 +35,7 @@
     "prepublishOnly": "pnpm build"
   },
   "peerDependencies": {
-    "nuxt": "^3.6.1",
+    "nuxt": "^3.6.2",
     "vite": "*"
   },
   "dependencies": {
@@ -68,7 +68,7 @@
     "semver": "^7.5.4",
     "sirv": "^2.0.3",
     "unimport": "^3.0.14",
-    "vite-plugin-inspect": "^0.7.32",
+    "vite-plugin-inspect": "^0.7.33",
     "vite-plugin-vue-inspector": "^3.4.2",
     "wait-on": "^7.0.1",
     "which": "^3.0.1",
@@ -80,8 +80,8 @@
     "@iconify-json/carbon": "^1.1.18",
     "@iconify-json/logos": "^1.1.33",
     "@iconify-json/ri": "^1.1.10",
-    "@iconify-json/simple-icons": "^1.1.59",
-    "@iconify-json/tabler": "^1.1.81",
+    "@iconify-json/simple-icons": "^1.1.60",
+    "@iconify-json/tabler": "^1.1.82",
     "@nuxt/content": "^2.7.0",
     "@nuxt/devtools": "workspace:*",
     "@nuxtjs/color-mode": "^3.3.0",
@@ -93,7 +93,7 @@
     "@unocss/preset-uno": "^0.53.5",
     "@unocss/runtime": "^0.53.5",
     "@vueuse/nuxt": "^10.2.1",
-    "esno": "^0.16.3",
+    "esno": "^0.17.0",
     "flatted": "^3.2.7",
     "floating-vue": "2.0.0-beta.24",
     "fuse.js": "^6.6.2",
